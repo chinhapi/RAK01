@@ -1,0 +1,61 @@
+[ {
+  "uid" : "7fcc70032f4177ca",
+  "name" : "postBug",
+  "time" : {
+    "start" : 1529768855066,
+    "stop" : 1529768856516,
+    "duration" : 1450
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de9f1a037a122d66",
+  "name" : "doTransition",
+  "time" : {
+    "start" : 1529768847296,
+    "stop" : 1529768849963,
+    "duration" : 2667
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc7808114e73dc36",
+  "name" : "assignPost",
+  "time" : {
+    "start" : 1529768844425,
+    "stop" : 1529768847280,
+    "duration" : 2855
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "647cd7b874072b6f",
+  "name" : "getPost",
+  "time" : {
+    "start" : 1529768849963,
+    "stop" : 1529768853583,
+    "duration" : 3620
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "403be142b6d36d27",
+  "name" : "addComment",
+  "time" : {
+    "start" : 1529768830181,
+    "stop" : 1529768844145,
+    "duration" : 13964
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "32289f99db31c857",
+  "name" : "getTransition",
+  "time" : {
+    "start" : 1529768853583,
+    "stop" : 1529768855050,
+    "duration" : 1467
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

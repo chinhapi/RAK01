@@ -1,0 +1,10 @@
+<suite name="testng">
+    <test name="test1">
+        <!--<classes>-->
+            <!--<class name="TestNGSuite1" />-->
+        <!--</classes>-->
+        <packages>
+            <package name="features.testng.jira"></package>
+        </packages>
+    </test>
+</suite>
