@@ -12,7 +12,7 @@
         <aspectj.version>1.8.10</aspectj.version>
         <restassured.version>3.1.0</restassured.version>
         <jdk.version>1.8</jdk.version>
-        <suite.path>scripts/testngsuite1.xml</suite.path>
+        <test.suite>scripts/testngsuite1.xml</test.suite>
     </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -75,7 +75,7 @@
                     </argLine>
                     <testFailureIgnore>true</testFailureIgnore>
                     <suiteXmlFiles>
-                        <suiteXmlFile>${suite.path}</suiteXmlFile>
+                        <suiteXmlFile>${test.suite}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
                 <dependencies>

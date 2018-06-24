@@ -1,29 +1,29 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 30.611 s <<< FAILURE! - in TestSuite
-addComment(features.testng.jira.testJira)  Time elapsed: 15.414 s  <<< FAILURE!
+Tests run: 6, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 15.273 s <<< FAILURE! - in TestSuite
+addComment(features.testng.jira.testJira)  Time elapsed: 3.932 s  <<< FAILURE!
 java.lang.AssertionError: 
 1 expectation failed.
 Expected status code <201> but was <401>.
 
 	at features.testng.jira.testJira.addComment(testJira.java:144)
 
-assignPost(features.testng.jira.testJira)  Time elapsed: 2.715 s  <<< FAILURE!
+assignPost(features.testng.jira.testJira)  Time elapsed: 1.747 s  <<< FAILURE!
 java.lang.AssertionError: 
 1 expectation failed.
 Expected status code <204> but was <401>.
 
 	at features.testng.jira.testJira.assignPost(testJira.java:95)
 
-doTransition(features.testng.jira.testJira)  Time elapsed: 2.62 s  <<< FAILURE!
+doTransition(features.testng.jira.testJira)  Time elapsed: 1.607 s  <<< FAILURE!
 java.lang.AssertionError: 
 1 expectation failed.
 Expected status code <204> but was <401>.
 
 	at features.testng.jira.testJira.doTransition(testJira.java:131)
 
-getTransition(features.testng.jira.testJira)  Time elapsed: 2.45 s  <<< FAILURE!
+getTransition(features.testng.jira.testJira)  Time elapsed: 1.638 s  <<< FAILURE!
 java.lang.AssertionError: 
 1 expectation failed.
 Expected status code <200> but was <401>.

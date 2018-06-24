@@ -1,0 +1,175 @@
+{
+  "uid" : "404c7f4b7e794a0e",
+  "name" : "TC03",
+  "fullName" : "features.testng.TestNGSuite2.TC03",
+  "historyId" : "6dc71a6ba70f02c830bc0f36f0207fab",
+  "time" : {
+    "start" : 1527393950388,
+    "stop" : 1527393950388,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1527393950358,
+      "stop" : 1527393950358,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1527393950378,
+      "stop" : 1527393950378,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1527393949898,
+      "stop" : 1527393949898,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "beforeSuite",
+    "time" : {
+      "start" : 1527393949868,
+      "stop" : 1527393949898,
+      "duration" : 30
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1527393950388,
+      "stop" : 1527393950388,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "afterClass",
+    "time" : {
+      "start" : 1527393950408,
+      "stop" : 1527393950408,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1527393950458,
+      "stop" : 1527393950458,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "afterSuite",
+    "time" : {
+      "start" : 1527393950478,
+      "stop" : 1527393950478,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "features.testng.TestNGSuite2"
+  }, {
+    "name" : "testClass",
+    "value" : "features.testng.TestNGSuite2"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC03"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testng"
+  }, {
+    "name" : "suite",
+    "value" : "test1"
+  }, {
+    "name" : "subSuite",
+    "value" : "features.testng.TestNGSuite2"
+  }, {
+    "name" : "host",
+    "value" : "CONGCHINH-PC"
+  }, {
+    "name" : "thread",
+    "value" : "6992@CONGCHINH-PC.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "404c7f4b7e794a0e.json",
+  "parameterValues" : [ ]
+}

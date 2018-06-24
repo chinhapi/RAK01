@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="4" ignored="1" total="7" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="testng" duration-ms="28425" started-at="2018-06-23T15:47:08Z" finished-at="2018-06-23T15:47:36Z">
+  <suite name="testng" duration-ms="13697" started-at="2018-06-24T04:33:39Z" finished-at="2018-06-24T04:33:53Z">
     <groups>
     </groups>
-    <test name="test1" duration-ms="28425" started-at="2018-06-23T15:47:08Z" finished-at="2018-06-23T15:47:36Z">
+    <test name="test1" duration-ms="13697" started-at="2018-06-24T04:33:39Z" finished-at="2018-06-24T04:33:53Z">
       <class name="features.testng.jira.testJira">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:features.testng.jira.testJira@1a45193b]" name="beforeClass" is-config="true" duration-ms="1903" started-at="2018-06-23T15:47:08Z" finished-at="2018-06-23T15:47:10Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:features.testng.jira.testJira@1ff34c6]" name="beforeClass" is-config="true" duration-ms="1139" started-at="2018-06-24T04:33:39Z" finished-at="2018-06-24T04:33:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="FAIL" signature="addComment()[pri:0, instance:features.testng.jira.testJira@1a45193b]" name="addComment" duration-ms="14041" started-at="2018-06-23T15:47:10Z" finished-at="2018-06-23T15:47:24Z">
+        <test-method status="FAIL" signature="addComment()[pri:0, instance:features.testng.jira.testJira@1ff34c6]" name="addComment" duration-ms="3854" started-at="2018-06-24T04:33:40Z" finished-at="2018-06-24T04:33:44Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[1 expectation failed.
@@ -90,7 +90,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addComment -->
-        <test-method status="FAIL" signature="assignPost()[pri:0, instance:features.testng.jira.testJira@1a45193b]" name="assignPost" duration-ms="2870" started-at="2018-06-23T15:47:24Z" finished-at="2018-06-23T15:47:27Z">
+        <test-method status="FAIL" signature="assignPost()[pri:0, instance:features.testng.jira.testJira@1ff34c6]" name="assignPost" duration-ms="1669" started-at="2018-06-24T04:33:44Z" finished-at="2018-06-24T04:33:46Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[1 expectation failed.
@@ -159,7 +159,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- assignPost -->
-        <test-method status="FAIL" signature="doTransition()[pri:0, instance:features.testng.jira.testJira@1a45193b]" name="doTransition" duration-ms="2667" started-at="2018-06-23T15:47:27Z" finished-at="2018-06-23T15:47:29Z">
+        <test-method status="FAIL" signature="doTransition()[pri:0, instance:features.testng.jira.testJira@1ff34c6]" name="doTransition" duration-ms="1575" started-at="2018-06-24T04:33:46Z" finished-at="2018-06-24T04:33:48Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[1 expectation failed.
@@ -228,11 +228,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doTransition -->
-        <test-method status="PASS" signature="getPost()[pri:0, instance:features.testng.jira.testJira@1a45193b]" name="getPost" duration-ms="3620" started-at="2018-06-23T15:47:29Z" finished-at="2018-06-23T15:47:33Z">
+        <test-method status="PASS" signature="getPost()[pri:0, instance:features.testng.jira.testJira@1ff34c6]" name="getPost" duration-ms="2122" started-at="2018-06-24T04:33:48Z" finished-at="2018-06-24T04:33:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getPost -->
-        <test-method status="FAIL" signature="getTransition()[pri:0, instance:features.testng.jira.testJira@1a45193b]" name="getTransition" duration-ms="1467" started-at="2018-06-23T15:47:33Z" finished-at="2018-06-23T15:47:35Z">
+        <test-method status="FAIL" signature="getTransition()[pri:0, instance:features.testng.jira.testJira@1ff34c6]" name="getTransition" duration-ms="1544" started-at="2018-06-24T04:33:50Z" finished-at="2018-06-24T04:33:51Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[1 expectation failed.
@@ -301,7 +301,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getTransition -->
-        <test-method status="PASS" signature="postBug()[pri:0, instance:features.testng.jira.testJira@1a45193b]" name="postBug" duration-ms="1466" started-at="2018-06-23T15:47:35Z" finished-at="2018-06-23T15:47:36Z">
+        <test-method status="PASS" signature="postBug()[pri:0, instance:features.testng.jira.testJira@1ff34c6]" name="postBug" duration-ms="1576" started-at="2018-06-24T04:33:51Z" finished-at="2018-06-24T04:33:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postBug -->
